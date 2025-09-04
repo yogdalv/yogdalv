@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 📊 GitHub Stats:  
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogdalv&show_icons=true&theme=default)  
 
 📫 How to reach me:  
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
