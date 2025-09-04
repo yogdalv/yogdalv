@@ -43,11 +43,16 @@ Here are some ideas to get you started:
 
 📫 How to reach me:  
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
- - [Email](mailto:YOUR-EMAIL@example.com)  , and space science 🌌 -->
+ - [Email](mailto:YOUR-EMAIL@example.com)  , and space science 🌌 
+
+ 
+ ![Profile views](https://komarev.com/ghpvc/?username=yogdalv&label=Profile%20views&color=0e75b6&style=flat)  
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yogdalv&title=Profile%20Views)](https://hits.seeyoufarm.com)
+ 
+ -->
 
 ✨ Fun fact: I love exploring new tech, financial markets 📈  
 
 
-![Profile views](https://komarev.com/ghpvc/?username=yogdalv&label=Profile%20views&color=0e75b6&style=flat)  
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yogdalv&title=Profile%20Views)](https://hits.seeyoufarm.com)
+
 
