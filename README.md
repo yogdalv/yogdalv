@@ -36,11 +36,12 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+<!--
 📊 GitHub Stats:  
 ![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogdalv&show_icons=true&theme=default)  
 
 📫 How to reach me:  
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-<!-- - [Email](mailto:YOUR-EMAIL@example.com)  , and space science 🌌 -->
+ - [Email](mailto:YOUR-EMAIL@example.com)  , and space science 🌌 -->
 
 ✨ Fun fact: I love exploring new tech, financial markets 📈  
