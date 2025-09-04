@@ -46,3 +46,8 @@ Here are some ideas to get you started:
  - [Email](mailto:YOUR-EMAIL@example.com)  , and space science 🌌 -->
 
 ✨ Fun fact: I love exploring new tech, financial markets 📈  
+
+
+![Profile views](https://komarev.com/ghpvc/?username=devdummy&label=Profile%20views&color=0e75b6&style=flat)  
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devdummy&title=Profile%20Views)](https://hits.seeyoufarm.com)
+
