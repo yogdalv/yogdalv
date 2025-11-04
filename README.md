@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Exploring **Azure Cloud & DevOps**  
 - Practicing **CI/CD pipelines with GitHub Actions**
 
-<h3>🎓 Certifications</h3>
+🎓 Certifications
 
 <table>
 <tr>
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   </td>
 </tr>
 </table>
+
 
 
 🌱 Currently learning:  
