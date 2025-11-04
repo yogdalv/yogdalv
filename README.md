@@ -27,7 +27,22 @@ Here are some ideas to get you started:
 🏅 Certifications:
 - [![AWS Certified AI Practitioner](https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/5d46f21c-80e6-4d70-8b90-b83af000946b/public_url) 
 **AWS Certified AI Practitioner (AIF-C01)**  
-_Validated by Amazon Web Services (AWS)_  
+_Validated by Amazon Web Services (AWS)_
+
+<h3>🎓 Certifications</h3>
+
+<table>
+<tr>
+<td>
+  <img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100">
+</td>
+<td>
+  <b>AWS Certified AI Practitioner (AIF-C01)</b><br>
+  <i>Validated by Amazon Web Services (AWS)</i>
+</td>
+</tr>
+</table>
+
 
 🌱 Currently learning:  
 - **Azure Fundamentals & AZ-204 Certification**  
