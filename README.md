@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 - Exploring **Azure Cloud & DevOps**  
 - Practicing **CI/CD pipelines with GitHub Actions**
 
-🏅 Certifications:
-- [![AWS Certified AI Practitioner](https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/5d46f21c-80e6-4d70-8b90-b83af000946b/public_url) 
-**AWS Certified AI Practitioner (AIF-C01)**  
-_Validated by Amazon Web Services (AWS)_
-
 <h3>🎓 Certifications</h3>
 
 <table>
@@ -36,10 +31,11 @@ _Validated by Amazon Web Services (AWS)_
 <td>
   <img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100">
 </td>
-<td>
-  <b>AWS Certified AI Practitioner (AIF-C01)</b><br>
-  <i>Validated by Amazon Web Services (AWS)</i>
-</td>
+  <td style="vertical-align: middle; padding-left: 15px;">
+      <b>AWS Certified AI Practitioner (AIF-C01)</b><br>
+      <i>Validated by Amazon Web Services (AWS)</i><br>
+      <a href="https://www.credly.com/badges/5d46f21c-80e6-4d70-8b90-b83af000946b/public_url" target="_blank">🔗 View on Credly</a>
+  </td>
 </tr>
 </table>
 
