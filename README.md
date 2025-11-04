@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - Practicing **CI/CD pipelines with GitHub Actions**
 
 🏅 Certifications:
-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d46f21c-80e6-4d70-8b90-b83af000946b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- [![AWS Certified AI Practitioner](https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/5d46f21c-80e6-4d70-8b90-b83af000946b/public_url) 
+**AWS Certified AI Practitioner (AIF-C01)**  
+_Validated by Amazon Web Services (AWS)_  
 
 🌱 Currently learning:  
 - **Azure Fundamentals & AZ-204 Certification**  
@@ -35,11 +37,12 @@ Here are some ideas to get you started:
 ⚡ Tech Stack:  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-orange)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-orange)
 
 <!--
 📊 GitHub Stats:  
