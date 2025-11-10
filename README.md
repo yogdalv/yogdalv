@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 - Basics of **AI/ML integration in .NET projects**
 
 🎓 Microsoft Learn Achievements:
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217)
-
-I'm actively completing Azure, AI, and .NET learning paths on [Microsoft Learn](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217) to stay updated with the latest Microsoft cloud technologies.
+- [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217)
+- I'm actively completing Azure, AI, and .NET learning paths on [Microsoft Learn](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217) to stay updated with the latest Microsoft cloud technologies.
 
 
 
