@@ -46,11 +46,6 @@ Here are some ideas to get you started:
 - **GitHub Actions / Azure DevOps Pipelines**  
 - Basics of **AI/ML integration in .NET projects**
 
-🎓 Microsoft Learn Achievements:<br>
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217)<br>
-I'm actively completing Azure, AI, and .NET learning paths on [Microsoft Learn](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217) to stay updated with the latest Microsoft cloud technologies.
-
-
 
 ⚡ Tech Stack:  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -61,6 +56,11 @@ I'm actively completing Azure, AI, and .NET learning paths on [Microsoft Learn](
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-orange)
+
+
+🎓 Microsoft Learn Achievements:<br>
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217)<br>
+I'm actively completing Azure, AI, and .NET learning paths on [Microsoft Learn](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217) to stay updated with the latest Microsoft cloud technologies.
 
 <!--
 📊 GitHub Stats:  
