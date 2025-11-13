@@ -62,6 +62,15 @@ Here are some ideas to get you started:
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217)<br>
 I'm actively completing Azure, AI, and .NET learning paths on [Microsoft Learn](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217) to stay updated with the latest Microsoft cloud technologies.
 
+☁️ AWS Skill Builder Profile  
+[![AWS Skill Builder](https://img.shields.io/badge/AWS_Skill_Builder-Achievements-orange?logo=amazon-aws)]([https://skillsprofile.skillbuilder.aws/user/YogeshDalvi])  Actively learning AWS Cloud, AI, and Serverless technologies through [AWS Skill Builder](https://skillsprofile.skillbuilder.aws/user/YogeshDalvi).
+
+🎓 Learning Profiles  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/YogeshDalvi-4217)
+[![AWS Skill Builder](https://img.shields.io/badge/AWS_Skill_Builder-Achievements-orange?logo=amazon-aws)](https://skillsprofile.skillbuilder.aws/user/YogeshDalvi)  
+Exploring Azure, AWS, and AI technologies through continuous learning paths.
+
+
 <!--
 📊 GitHub Stats:  
 ![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogdalv&show_icons=true&theme=default)  
